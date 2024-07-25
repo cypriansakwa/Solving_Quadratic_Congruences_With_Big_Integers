@@ -1,0 +1,9 @@
+[package]
+name = "Square_Congruence_Solver_Big_Integers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4.6"
+num-traits = "0.2.19"
+num-integer = "0.1.46"
